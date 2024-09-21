@@ -31,4 +31,4 @@ The major system features:\
 •	Meetings Management: Users can schedule and document key project meetings.\
 •	Task and User Story Management: Users can create, assign, and track tasks and user stories.\
 
-![Project Screenshot](images/Screenshot 2024-09-21 185818.jpg)
+<img src="images/Screenshot 2024-09-21 185818.jpg"> 
